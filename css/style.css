@@ -1,3 +1,88 @@
 h1 {
-  color: salmon;
+  color: #4C4C4C;
+  font-family: Arial Black, 'Cardo', serif;
+  text-align: center;
+}
+
+h3 {
+  font-family: Arial Black;
+  text-align: center;
+  font-weight: normal;
+}
+
+img {
+  height: 200px;
+  width: 185px;
+  padding: 10px;
+
+}
+
+.container-1 {
+  height: 245px;
+  width: 700px;
+  margin: 0 auto;
+  padding-left: 100px;
+
+}
+
+.container-2 {
+  height: 230px;
+  width: 700px;
+  margin: 0 auto;
+  padding-left: 100px;
+
+}
+
+#picture-sf {
+  display: inline-block;
+  position:relative;
+}
+
+#picture-sf2 {
+  display: inline-block;
+  position:relative;
+}
+
+
+#picture {
+  display: inline-block;
+  position:relative;
+}
+
+
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 5px 30px 5px 30px;
+  font-family: Arial Black;
+  
+
+}
+
+
+#picture p {
+  font-family: Arial Black;
+  position: absolute;
+  color: white;
+  margin: -120px 0px 0px 70px;
+  font-weight: bold;
+
+}
+
+#picture-sf p {
+  font-family: Arial Black;
+  position: absolute;
+  color: white;
+  margin: -120px 0px 0px 45px;
+  font-weight: bold;
+
+}
+
+#picture-sf2 p {
+  font-family: Arial Black;
+  position: absolute;
+  color: white;
+  margin: -120px 0px 0px 45px;
+  font-weight: bold;
+
 }
